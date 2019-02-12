@@ -1,0 +1,8 @@
+## ~~Penting Untuk di baca
+
+
+Sebelum kamu belajar tentang dart ada beberapa fakta dan konsep di dalamnya
+
+1.  kamu dalam memasukan sesuatu ke setiap variable , Object adalah beberapa variable dan setiap object itu berada di dalam class.
+        Even angka , function dan null adalah object . Semua Object mewarisi dari object
+2.  
